@@ -60,12 +60,12 @@ include("header.php");
         </tbody>
       </table>
     </div>
-    <div class="col-6">
+    <div class="col-md-6">
       <div>
         <canvas id="myChart"></canvas>
       </div>
     </div>
-    <div class="col-6">
+    <div class="col-md-6">
       <div>
         <canvas id="myChart2"></canvas>
       </div>
